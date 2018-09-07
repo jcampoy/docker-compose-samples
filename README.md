@@ -1,2 +1,1 @@
-# docker-compose-samples
-Samples about docker compose.
+# Samples about docker compose.
